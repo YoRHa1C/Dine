@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dine</string>
+    <string name="search_food_url">https://trackapi.nutritionix.com/v2/search/instant/</string>
+    <string name="nutrition_url">https://trackapi.nutritionix.com/v2/natural/nutrients</string>
+    <string name="api_id">13fd368d</string>
+    <string name="api_key">45a6fc8ee5491a8e950ee292f11412fa</string>
+    <string name="random_recipe_url">https://www.themealdb.com/api/json/v1/1/random.php</string>
+    <string name="search_recipe_url">https://www.themealdb.com/api/json/v1/1/search.php</string>
+    <string name="ingredient_image_url">https://www.themealdb.com/images/ingredients/</string>
+    <string name="ai_api_key">AIzaSyDrDJsbbyaeKAkd7Fgsi0B-RswVB3UQlYs</string>
+    <string name="number_only"> answer number only</string>
+    <string name="result_only"> answer result only</string>
+</resources>
